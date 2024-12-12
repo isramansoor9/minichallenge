@@ -1,5 +1,0 @@
-outs:
-- md5: 1f827d0116d9c9850143f3d271afa78d
-  size: 670521
-  hash: md5
-  path: raw_rssi.csv
